@@ -1,0 +1,8 @@
+# Virtual environments
+.venv/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+tasks.json
